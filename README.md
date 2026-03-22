@@ -13,4 +13,4 @@
 
 GitHub: github.com/d-shulga/d-shulga
 Telegram: @DimJaze 
-Email: dimashylga13@gmaile.com
+Email: dimashylga13@gmail.com
