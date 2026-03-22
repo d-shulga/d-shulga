@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 QA-Портфолио | Шульга Дмитрий
 
-<!--
-**d-shulga/d-shulga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Manual QA 
 
-Here are some ideas to get you started:
+### Почему я в QA
+Потому что QA — это про качество и ответственность. Я хочу быть тем, кто делает так, чтобы у пользователей всё работало как надо.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Текущий прогресс
+- Пройден курс Stepik «Тестирование ПО с нуля»   
+
+### Проекты 
+-
+
+GitHub: github.com/d-shulga/d-shulga
+Telegram: @DimJaze 
+Email: dimashylga13@gmaile.com
