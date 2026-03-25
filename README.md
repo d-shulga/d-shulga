@@ -1,16 +1,24 @@
-# 👋 QA-Портфолио | Шульга Дмитрий
+# QA Portfolio | Dmitrii Shulga
 
-**Junior Manual QA 
+## About Me
+Junior Manual QA Engineer focused on web testing, bug reporting and test documentation.
 
-### Почему я в QA
-Потому что QA — это про качество и ответственность. Я хочу быть тем, кто делает так, чтобы у пользователей всё работало как надо.
+## Skills
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- Git & GitHub
+- Web Testing (DevTools)
 
-### Текущий прогресс
-- Пройден курс Stepik «Тестирование ПО с нуля»   
+## Projects
 
-### Проекты 
--
+### Bug Reports
+Real bugs found on production websites:
+- Email validation issue – shop.tn.ru
 
-GitHub: github.com/d-shulga/d-shulga
-Telegram: @DimJaze 
+## Education
+- Stepik: Software Testing from Scratch
+
+## Contacts
 Email: dimashylga13@gmail.com
+Telegram: @DimJaze
