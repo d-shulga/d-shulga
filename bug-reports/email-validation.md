@@ -5,7 +5,7 @@ System allows login with invalid email domain
 
 ## Environment
 Browser: Chrome  
-OS: Windows 11
+OS: Windows 10
 
 ## Steps to Reproduce
 1. Open https://shop.tn.ru/
