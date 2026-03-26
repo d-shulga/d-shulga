@@ -23,7 +23,7 @@ User is on login page
 1. Open https://shop.tn.ru/
 2. Click "Войти"
 3. Enter invalid email
-4. Click "Получить код"
+4. Click "Войти"
 
 ## Expected Result
 System should show validation error.
